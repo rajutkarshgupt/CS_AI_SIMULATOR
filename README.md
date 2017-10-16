@@ -35,3 +35,49 @@ Next 7*n - Lines :-
 5) ANGLE OF LINE OF ORIENTATION OF i-th COUNTER - TERRORITST FROM '+' X - AXIS
 6) INITIAL - ENERGY - LEVEL OF i-th COUNTER - TERRORIST
 7) SPEED ( DISTANCE PER MOVE ) OF i-th COUNTER - TERRORIST
+
+SAMPLE - TSET - CASES :-
+
+1) SAMPLE - INPUT :-
+1 1
+0 0
+circular
+circular
+aggressive
+bomb
+90.0
+3 0
+180.0
+10
+1
+cautious
+bomb
+90.0
+4 0
+180.0
+10
+1
+SAMPLE - OUTPUT :-
+COUNTER - TERRORISTS WON
+
+2) SAMPLE - INPUT :-
+1 1
+0 0 
+circular
+circular 
+aggressive 
+bomb 
+50.0
+1 0 
+180.0 
+10 
+1 
+cautious 
+bomb 
+50.0
+0 1
+315.0 
+10 
+1
+SAMPLE - OUTPUT :-
+TERRORISTS WON
